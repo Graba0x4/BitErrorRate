@@ -1,0 +1,10 @@
+[Tue Sep 15 14:55:16 2020] - Open log file
+[Tue Sep 15 14:55:16 2020] - Close log file!
+
+
+
+[Tue Sep 15 14:55:34 2020] - Open log file
+[Tue Sep 15 14:55:34 2020] - Close log file!
+
+
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1596486687 source:e:\projekty\c++\biterrorrate-master\main.cpp
+	<iostream>
+	<sstream>
+	<time.h>
+	<string.h>
+	<cstdlib>
+	"log.h"
+
+1596480684 e:\projekty\c++\biterrorrate-master\include\log.h
+	<fstream>
+	<iostream>
+	<ctime>
+
+1596481730 source:e:\projekty\c++\biterrorrate-master\src\log.cpp
+	"Log.h"
+
